@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <dimen name="actionbar_height">45dip</dimen>
-    <dimen name="actionbar_item_height">45dip</dimen>
-    <dimen name="actionbar_item_width">45dip</dimen>
+    <dimen name="actionbar_height">48dp</dimen>
+    <dimen name="actionbar_item_height">48dp</dimen>
+    <dimen name="actionbar_item_width">48dp</dimen>
 </resources>

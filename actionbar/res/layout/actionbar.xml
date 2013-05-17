@@ -52,6 +52,7 @@
                 android:id="@+id/actionbar_home_btn"
                 style="@style/ActionBarHomeItem"
                 android:background="@drawable/actionbar_btn"
+                android:scaleType="fitXY"
                 />
         </RelativeLayout>
         <ImageView
